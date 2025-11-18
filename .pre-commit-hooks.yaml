@@ -3,7 +3,7 @@
     description: 'Linter for the JavaScript Oxidation Compiler'
     entry: oxlint
     language: node
-    'types_or': [javascript, jsx, ts, tsx]
+    'types_or': [javascript, jsx, ts, tsx, vue]
     args: []
     require_serial: false
     additional_dependencies: ["oxlint@1.29.0"]
